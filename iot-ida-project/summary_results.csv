@@ -1,0 +1,5 @@
+model,training_time_seconds,final_accuracy
+HoeffdingTreeClassifier,0.07692091207718477,0.9194
+GaussianNB,0.012190930952783674,0.8986
+Perceptron,0.06366053913370706,0.9604
+LogisticRegression,0.309838209010195,0.879

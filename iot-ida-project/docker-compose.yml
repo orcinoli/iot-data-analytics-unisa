@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    image: iot-ida-project
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: python src/batch_vs_online.py
+
