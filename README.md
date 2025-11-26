@@ -85,7 +85,4 @@ if __name__ == "__main__":
 - River (online machine learning): `river`
 - scikit-learn (batch learning): `scikit-learn`
 
-## License
-If you add a license, mention it here (e.g., MIT).
-
 
